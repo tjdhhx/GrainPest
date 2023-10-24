@@ -1,1 +1,1 @@
-
+Images in GrainPest were captured by dome cameras as shown in figure 1, It can be seen that the pest instances occupy only a small portion of the image. As the body length of stored-grain pests ranges from 1.2 to 4mm, detecting pests with body lengths of just millimeter level on the surface of grain bulks in a granary is considerably challenging.
