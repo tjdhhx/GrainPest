@@ -1,9 +1,15 @@
 # GrainPest
   GrainPest is an image dataset for stored-grain pest detection on the surface of grain bulks. It contains 16358 images, including six common species of stored-grain pest: Rusty grain beetle, Sawtoothed grain beetle, Lesser grain borer, Red flour beetle, Maize weevil, and Rice weevil. A total of 66372 pest instances with detection bounding boxes were annotated.  
 ## About GrainPest
+### What is GrainPest
   GrainPest is an image dataset for stored-grain pest detection on the surface of grain bulks. It contains 16358 images, including six common species of stored-grain pest: Rusty grain beetle, Sawtoothed grain beetle, Lesser grain borer, Red flour beetle, Maize weevil, and Rice weevil. A total of 66372 pest instances with detection bounding boxes were annotated. All the pest images were taken by dome cameras. Figure 1 shows the images of specimen pests of these six species of stored-grain pests.
   ![图片名称](https://github.com/tjdhhx/GrainPest/blob/main/img/fig1.png)  
 Figure 1. Images of specimen pests of (a) Rusty grain beetle, (b) Sawtoothed grain beetle, (c) Lesser grain borer, (d) Red flour beetle, (e) Maize weevil, and (f) Rice weevil adults.
+### How to Collect Pest Images
+GrainPest contains three Parts. The images in Part I were naturally grown pests in granaries, these images were derived from the videos taken by grain keepers. As the quality of these images varies greatly due to the non-normative operations of grain keepers, we further collected images by introducing pests in both granaries and the laboratory to acquire more high-quality pest images. As a result, the images in Part II and Part III consist of introduced pests from granaries and the laboratory, respectively. We developed an image collection system to acquire images of introduced pests in trays in granaries and laboratory. We acquired the pest images by controlling the dome camera to sequentially capture pests in trays at each capture point. The spatial relationship between the dome camera capture points and the trays is shown in figure 2. The schematic diagram of the capture points is shown in Figure 3.
+![图片名称](https://github.com/tjdhhx/GrainPest/blob/main/img/fig2.png)  
+
+
 ### 三级标题  
 #### 四级标题  
 ##### 五级标题  
