@@ -18,6 +18,7 @@ Figure 4. Distribution of the pixel size of each category in GrainPest. (a) Dist
 As demonstrated in figure 4, the pixel size of most pest instances does not exceed 64 pixels. This indicates that the pest instances in GrainPest are smaller compared to object instances in other common datasets such as Pascal VOC [1] or MS COCO [2].
 ### Dataset Reference
 [1] Everingham, M., Van Gool, L., Williams, C. K. I., Winn, J., & Zisserman, A. (2010). The Pascal Visual Object Classes (VOC) Challenge. Int. J. Comput. Vis., 88(2), 303–338. https://doi.org/10.1007/s11263-009-0275-4
+
 [2] Lin, T. Y., Maire, M., Belongie, S., Bourdev, L., Girshick, R., Hays, J., ... Dollar, P. (2014). Microsoft COCO: Common Objects in Context. Proc. European Conf. on Computer Vision. pp. 740–755. Berlin: Springer. https://doi.org/10.1007/978-3-319-10602-1_48
 
 
