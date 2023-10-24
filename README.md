@@ -8,7 +8,7 @@ Figure 1. Images of specimen pests of (a) Rusty grain beetle, (b) Sawtoothed gra
 
 
 ## Examples images of Grain Pest
-Images in GrainPest were captured by dome cameras. It can be seen that the pest instances occupy only a small portion of the image. As the body length of stored-grain pests ranges from 1.2 to 4mm, detecting pests with body lengths of just millimeter level on the surface of grain bulks in a granary is considerably challenging. For more detail, please see [introduction for GrainPest](https://github.com/tjdhhx/GrainPest/blob/main/introduce/exampleimages.md) .
+Images in GrainPest were captured by dome cameras. It can be seen that the pest instances occupy only a small portion of the image. As the body length of stored-grain pests ranges from 1.2 to 4mm, detecting pests with body lengths of just millimeter level on the surface of grain bulks in a granary is considerably challenging. For more detail, please see [Example images](https://github.com/tjdhhx/GrainPest/blob/main/introduce/exampleimages.md) .
 
 
 
