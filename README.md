@@ -7,7 +7,7 @@
 Figure 1. Images of specimen pests of (a) Rusty grain beetle, (b) Sawtoothed grain beetle, (c) Lesser grain borer, (d) Red flour beetle, (e) Maize weevil, and (f) Rice weevil adults.
 ### How to Collect Pest Images
 GrainPest contains three Parts. The images in Part I were naturally grown pests in granaries, these images were derived from the videos taken by grain keepers. As the quality of these images varies greatly due to the non-normative operations of grain keepers, we further collected images by introducing pests in both granaries and the laboratory to acquire more high-quality pest images. As a result, the images in Part II and Part III consist of introduced pests from granaries and the laboratory, respectively. We developed an image collection system to acquire images of introduced pests in trays in granaries and laboratory. We acquired the pest images by controlling the dome camera to sequentially capture pests in trays at each capture point. The spatial relationship between the dome camera capture points and the trays is shown in figure 2. The schematic diagram of the capture points is shown in Figure 3.
-![图片名称](https://github.com/tjdhhx/GrainPest/blob/main/img/fig2.png)  
+![图片名称](https://github.com/tjdhhx/GrainPest/blob/main/img/fig2a.png)  
 
 
 ### 三级标题  
